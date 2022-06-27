@@ -1,2 +1,0 @@
-# webAnime
-modificaciones webAnime
